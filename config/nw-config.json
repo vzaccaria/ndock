@@ -1,0 +1,1 @@
+{"localportRangeBase":60000,"ngrokSubdomain":"vz","ngrokAuthToken":"KPXznjAnN3kyR6reJszZ","nodePrefix":"n","nodeNumber":0,"statusEndpointName":"stat","statusEndpointPort":"","nstatusEndpointName":"","nstatusEndpointPort":"","dockerImageName":"node-v5","dropCommands":[{"name":"tty.js","port":8080},{"name":"tty.js","port":8080}]}
